@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(255, 0, 0);
+}
+.van{
+
+background-color: green;
+box-shadow: 2px 2px 2px 1px ;
+height: 50px;
+
+border-radius: 5px;
+}
+:hover.van{
+    color: rgb(246, 0, 0);
+    background-color: wheat;
+    border: 2px solid rgb(0, 255, 238); 
+   
+}
+input{
+border-radius: 10px;
+outline: none;
+margin: 30px;
+height: 50px;
+width: 200px;
+}
+.ttt{
+    background-color: rgb(151, 251, 13);
+    margin: 20px;
+}
+#jam{
+    margin: 10px;
+}
+:hover.ttt{
+    color: white;
+}
+.sha{
+     border: 1px solid black;
+     
+}
+#love{
+    border: 4px solid rgb(255, 255, 255);
+    background-color: rgba(252, 0, 0, 0.718);
+    color: white;
+    text-align: center;
+}
+#lovebtn{
+    color: red;
+    background-color: bisque;
+    border-radius: 5px;
+    height: 35px;
+}
+#default{
+    border: 4px solid rgb(220, 63, 63);
+    font-size: 99em;
+    height: 130px;
+    margin-left: 350px;
+    width: 200;
+    align-items: center;
+    border-radius: 50%;
+}
+#message{
+    font-size: x-large;
+}
+
